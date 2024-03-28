@@ -3,6 +3,7 @@ module Typescript
     , module Typescript.Internal.Flavors.Vanilla
     , module Typescript.Internal.Flavors.FpTs
     , module Typescript.Internal.Output.Foreign.Class
+    , module Typescript.Internal.Intermediate.Generic
     , foreignTypescript
     , mkTypescriptDeclaration
     , TypescriptType
